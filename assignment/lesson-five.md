@@ -1,6 +1,6 @@
 # 🎓 Assignment – Spam Detection with Logistic Regression, Random Forest & Naive Bayes
 
-**Due:** Monday, Feb 22, 2025 — 12:00 PM (Africa/Mogadishu / EAT)
+**Due:** Sunday, Feb 22, 2025 — 12:00 PM (Africa/Mogadishu / EAT)
 
 ---
 
